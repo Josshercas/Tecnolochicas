@@ -15,16 +15,3 @@ Este repositorio contiene la solución a los retos de las sesiones de aprendizaj
 | 7       | Reto 02   | Aplicar BufferedReader, try-with-resources y manejo de excepciones para analizar logs.                                                 | [src/main/java/com/example/reto02sesion7/AnalizadorDeLogs.java](src/main/java/com/example/reto02sesion7/AnalizadorDeLogs.java)                                        |
 | 8       | Reto 01   | Aplicar refactorización y principios SOLID en un videojuego narrativo.                                                                | [src/main/java/com/example/reto01sesion8/](src/main/java/com/example/reto01sesion8/)                                                                                |
 | 8       | Reto 02   | Desarrollar una herramienta para leer consumo de CPU, identificar duplicados, validar entradas y lanzar excepciones personalizadas. | [src/main/java/com/example/reto02sesion8/](src/main/java/com/example/reto02sesion8/)                                                                                |
-
-**Explicación de la Sintaxis Markdown de la Tabla:**
-
-* `|`: Se utiliza para delimitar las columnas.
-* `-`: Se utiliza para crear la línea de separación del encabezado.
-* `:`: Al colocar `:---:`, `:----`, o `---:` debajo del encabezado, puedes alinear el contenido de las columnas al centro, a la izquierda (por defecto) o a la derecha, respectivamente.
-* `[Texto del enlace](URL del enlace)`: Esta es la sintaxis para crear un enlace.
-
-**4. Crear Enlaces a los Archivos:**
-
-La clave para que tu tabla sea "direccionada" es usar rutas relativas a los archivos dentro de tu repositorio. Cuando creas un enlace en el `README.md`, la ruta que coloques en el `(URL del enlace)` debe ser la ruta desde la raíz de tu repositorio hasta el archivo `.java`.
-
-Por ejemplo, para el archivo `Factura.java` del reto 02 de la sesión 3, la ruta relativa sería:
